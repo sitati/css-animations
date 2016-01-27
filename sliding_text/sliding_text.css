@@ -11,6 +11,11 @@ p {
 
   to {
     margin-left: 0%;
-    width: 100%;
+    width: 1000%;
+  }
+  75% {
+  font-size: 300%;
+  margin-left: 25%;
+  width: 150%;
   }
 }
